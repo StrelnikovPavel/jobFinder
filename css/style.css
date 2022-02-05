@@ -20,7 +20,7 @@ body {
 body {
   color: #3C4C70;
   line-height: 1;
-  font-family: "Open Sans";
+  font-family: "";
   font-size: 0.875rem;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -32,7 +32,7 @@ body {
 input,
 button,
 textarea {
-  font-family: "Open Sans";
+  font-family: "";
   font-size: inherit;
 }
 
